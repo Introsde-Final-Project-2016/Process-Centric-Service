@@ -54,7 +54,6 @@ public class Resources {
 	        return Response.ok(l).build();
 	    }
 	       
-//	    //this does not work
 //	    @PUT
 //	    @Produces({MediaType.APPLICATION_JSON})
 //	    @Consumes({MediaType.APPLICATION_JSON})
